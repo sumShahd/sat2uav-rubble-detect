@@ -1,0 +1,21 @@
+name: rubble-gpu
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch=2.2
+  - torchvision
+  - pytorch-cuda=12.1
+  - numpy
+  - opencv
+  - matplotlib
+  - scikit-learn
+  - tqdm
+  - pip
+  - pip:
+      - albumentations
+      - segmentation-models-pytorch
+

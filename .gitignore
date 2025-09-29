@@ -1,0 +1,49 @@
+# OS/IDE junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# Data (keep repo light)
+data/*
+!data/README.md
+!data/raw/*.png
+!data/annotations/*.json
+
+# Models (checkpoints/weights)
+models/*
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Results / figures
+reports/figures/*
+!reports/figures/sample_output.png
+
+# Logs
+*.log
+logs/
+wandb/
+mlruns/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Notebooks auto-saves
+*.ipynb_checkpoints
+
+# Environments
+.env
+.venv/
+venv/
+*.yml~
+*.yaml~
+
