@@ -23,16 +23,16 @@ LICENSE
 
 
 ## Data Access
-This project uses the **[TE23D Turkey Earthquake dataset]** (tiles + segmentation labels) that was introduced [here.](https://ieeexplore.ieee.org/document/10824929/)  
+This project uses the **[TE23D Turkey Earthquake dataset](https://ieeexplore.ieee.org/document/10824929/)** (tiles + segmentation labels). 
 Due to size/licensing, **raw data is not included**.  
 - Include your own copy under `data/` locally or in cloud storage.
 - This repo provides **sample orthomosaics** in `data/raw/` for demonstration only.
 
-##License
+## License
 
 Code is released under the MIT License. Datasets are subject to their own licenses and are not redistributed in this repository.
 
-##Citation
+## Citation
 
 If you build on this work, please cite the TE23D dataset and this repo.
 
