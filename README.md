@@ -3,22 +3,22 @@
 This project generates **UAV-simulated imagery from satellite data** using an integrated **style-transfer + upsampling** pipeline, then trains a **transformer-based model** for rubble/damage detection. The goal is to apply this pipeline and integrate detections into a simple **UAV path-planning** demo.
 
 ## Repo Structure
-data/ # (gitignored) datasets and annotations  
-raw/ # sample orthomosaics (small examples only)  
-processed/ # tiles, UAV-sim outputs  
-annotations/ # COCO/YOLO JSONs  
+> data/ # (gitignored) datasets and annotations  
+> 	raw/ # sample orthomosaics (small examples only)  
+> 	processed/ # tiles, UAV-sim outputs  
+> 	annotations/ # COCO/YOLO JSONs  
 
-models/ # (gitignored) trained weights/checkpoints  
-notebooks/ # tests and experiment notebooks  
-src/ # reusable source code (integrated pipeline/training/inference/planner)  
-reports/ # drafts, results tables  
-figures/  
-submission/ # final report and artefact bundle  
+> models/ # (gitignored) trained weights/checkpoints  
+> notebooks/ # tests and experiment notebooks  
+> src/ # reusable source code (integrated pipeline/training/inference/planner)  
+> reports/ # drafts, results tables  
+> figures/  
+> submission/ # final report and artefact bundle  
 
-README.md  
-environment.yml  
-.gitignore  
-LICENSE  
+> README.md  
+> environment.yml  
+> .gitignore  
+> LICENSE  
 
 ## Data Access
 This project uses the **[TE23D Turkey Earthquake dataset](https://ieeexplore.ieee.org/document/10824929/)** (tiles + segmentation labels). 
