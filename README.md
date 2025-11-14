@@ -28,7 +28,7 @@ This project uses several datasets:
 3. [ESRI Packing House District & Marshall Fire](https://www.esri.com/en-us/arcgis/products/arcgis-reality/resources/sample-drone-datasets) - orthophotos and other UAV data in smaller datasets
 
 Due to size/licensing, **these datasets cannot be redistributed in this repository.** Please download them/request access directly from their official sources.  
-- Include your own copy under `datasets` locally or in cloud storage.
+- Include your own copy under `datasets/` locally or in cloud storage.
 - This repo provides some examples of the dataset images and orthomosaics in `images/` for demonstration only.
 
 
