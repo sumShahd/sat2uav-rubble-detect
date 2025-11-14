@@ -17,7 +17,8 @@ This repository contains code, experiments, and utilities developed for the proj
 - Sample of comparison results and qualitative findings which can be seen in `images/`
 
 ## Data Access
-This project uses several datasets:    
+This project uses several datasets:  
+  
 **Satellite Imagery Dataset:**  
 1. [TE23D Türkiye Earthquake 2023](https://ieeexplore.ieee.org/document/10824929/) - 256x256 tiled imagery + damage annotations.  
 
