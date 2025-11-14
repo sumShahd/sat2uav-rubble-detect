@@ -23,7 +23,7 @@ This project uses several datasets:
 1. [TE23D Türkiye Earthquake 2023](https://ieeexplore.ieee.org/document/10824929/) - 256x256 tiled imagery + damage annotations.  
 
 **UAV Reference Datasets:**  
-2. [(ICCV 2025) UAVScenes Drone Dataset](https://github.com/sijieaaa/UAVScenes) - Large scale multi-modal dataset  
+2. [(ICCV 2025) UAVScenes Drone Dataset](https://github.com/sijieaaa/UAVScenes) - Large scale multi-modal dataset
 
 3. [ESRI Packing House District & Marshall Fire](https://www.esri.com/en-us/arcgis/products/arcgis-reality/resources/sample-drone-datasets) - orthophotos and other UAV data in smaller datasets
 
