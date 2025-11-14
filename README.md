@@ -14,7 +14,7 @@ This repository contains code, experiments, and utilities developed for the proj
 - ESRGAN upsampling utilities
 - CycleGAN training pipeline
 - SDXL ControlNet inference workflows
-- Sample of comparison results and qualitative findings
+- Sample of comparison results and qualitative findings which can be seen in 'images/'
 
 ## Data Access
 This project uses several datasets:
@@ -30,6 +30,6 @@ This project uses several datasets:
 
 Due to size/licensing, **these datasets cannot be redistributed in this repository.** Please download them/request access directly from their official sources.  
 - Include your own copy under `data/` locally or in cloud storage.
-- This repo provides **sample orthomosaics** in `orthomosaic_tiling/example_out/` for demonstration only.
+- This repo provides some examples of the dataset images and orthomosaics in 'images/' for demonstration only.
 
 
