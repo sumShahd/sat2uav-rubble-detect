@@ -2,7 +2,7 @@
 
 Disaster-response pipelines often rely on UAV imagery for close-range detail, texture and viewpoint. Satellite imagery provides rapid regional coverage but lacks UAV-style perspective and fine detail.
 
-This capstone research project on investigates whether generative models can bridge that visual gap and aims to convert **satellite imagery to UAV-like views (sat2UAV)** for *search and rescue (SAR)** workflows, especially when real UAV footage is unavailable or unsafe to collect in certain situations.
+This capstone research project on investigates whether generative models can bridge that visual gap and aims to convert **satellite imagery to UAV-like views (sat2UAV) for search and rescue (SAR)** workflows, especially when real UAV footage is unavailable or unsafe to collect in certain situations.
 
 This repository contains code, experiments, and utilities developed for the project and focuses two main approaches that were tested:
 - **CycleGAN (img2img-turbo)** for unpaired satellite→UAV domain translation
